@@ -1,0 +1,6 @@
+.DS_Store
+.vscode
+.virtual_documents
+__pycache__
+.ipynb_checkpoints
+*.ipynb
