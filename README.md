@@ -31,24 +31,24 @@
 - [ ] Single-Layer Perceptron
 - [ ] Multi-Layer Perceptron (MLP)
 - [ ] Convolutional Neural Networks (CNNs)
-- [ ] Recurrent Neural Networks (RNNs)
+- [x] Recurrent Neural Networks (RNNs)
 - [ ] Long Short-Term Memory (LSTM)
 - [ ] Generative Adversarial Networks (GANs)
 - [ ] Autoencoders
 - [ ] Layers
-    - [ ] Activation Layer
-    - [ ] Average Pooling Layer
-    - [ ] Batch Normalization Layer
-    - [ ] Constant Padding Layer
-    - [ ] Convolutional Layer
-    - [ ] Dropout Layer
-    - [ ] Flatten Layer
-    - [ ] Fully-Connected (Dense) Layer
-    - [ ] Fully-Connected RNN Layer
-    - [ ] Max Pooling Layer
-    - [ ] Reshape Layer
-    - [ ] Up Sampling Layer
-    - [ ] Zero Padding Layer
+  - [ ] Activation Layer
+  - [ ] Average Pooling Layer
+  - [ ] Batch Normalization Layer
+  - [ ] Constant Padding Layer
+  - [ ] Convolutional Layer
+  - [ ] Dropout Layer
+  - [ ] Flatten Layer
+  - [ ] Fully-Connected (Dense) Layer
+  - [ ] Fully-Connected RNN Layer
+  - [ ] Max Pooling Layer
+  - [ ] Reshape Layer
+  - [ ] Up Sampling Layer
+  - [ ] Zero Padding Layer
 
 ### Miscellaneous
 
